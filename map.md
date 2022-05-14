@@ -92,7 +92,7 @@
 		
 		var roadmap = L.imageOverlay('http://blog.damonpollard.com/wp-content/uploads/2013/09/GTAV_ROADMAP_8192x8192.png', bounds )   ;
 		var satellite = L.imageOverlay('http://blog.damonpollard.com/wp-content/uploads/2013/09/GTAV_SATELLITE_8192x8192.png', bounds );
-		var atlus = L.imageOverlay('http://blog.damonpollard.com/wp-content/uploads/2013/09/GTAV_ATLUS_8192x8192.png', bounds );
+		var atlus = L.imageOverlay('GTAV_ATLUS_8192x8192.png', bounds );
 
 		var BaseMaps = {
 			"Roadmap": roadmap,
